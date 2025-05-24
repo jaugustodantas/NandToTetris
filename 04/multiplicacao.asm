@@ -1,0 +1,20 @@
+(LOOP)
+	@0
+	D=M
+	@soma
+	M=D+M
+	@conta
+	M=M+1
+	D=M
+	@1
+	D=D-M
+	@LOOP
+	D;JLT
+	@conta
+	D=M
+	@2
+	M=D
+	
+(END)
+	@END
+	0;JMP
