@@ -7,7 +7,8 @@ Este repositório contém meus estudos do curso [Nand2Tetris](https://www.nand2t
 - `01/` – Portas lógicas básicas (AND, OR, NOT, etc)
 - `02/` – Chips combinacionais e hierarquia de construção
 - `03/` – Chips sequenciais e memória
-
+- `04/` – Lingaguem assembly
+- `05/` – CPU, Memória e PC
 ## Progresso
 
 - Projeto 01 finalizado 
